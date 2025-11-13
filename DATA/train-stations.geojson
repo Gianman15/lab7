@@ -1,0 +1,4812 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 1,
+        "stat_num": 555,
+        "stat_ID": "XYUL",
+        "stat_name": "Aeroport Montreal Pierre-Elliott Trudeau",
+        "street_num": "",
+        "street": "Boulevard Roméo-Vachon Nord (départs)",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "H4Y 0A4",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.75183367,
+          45.45698788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 2,
+        "stat_num": 600,
+        "stat_ID": "ALDR",
+        "stat_name": "Aldershot",
+        "street_num": "",
+        "street": "East Tunnel",
+        "address_2": "",
+        "city": "Burlington",
+        "province": "Ontario",
+        "postal_code": "L7T 2C4",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.855009,
+          43.312886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 3,
+        "stat_num": 344,
+        "stat_ID": "ALEX",
+        "stat_name": "Alexandria",
+        "street_num": 45,
+        "street": "McDougald Street East",
+        "address_2": "",
+        "city": "North Glengarry",
+        "province": "Ontario",
+        "postal_code": "K0C 1A0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.639672,
+          45.31805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 4,
+        "stat_num": 221,
+        "stat_ID": "AMQU",
+        "stat_name": "Amqui",
+        "street_num": "",
+        "street": "Boulevard Saint-Benoît Ouest",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G5J 2E8",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.436172,
+          48.46626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 5,
+        "stat_num": 636,
+        "stat_ID": "AMYO",
+        "stat_name": "Amyot",
+        "street_num": "",
+        "street": "Road 8 & 20",
+        "address_2": "",
+        "city": "Unorganized North Algoma",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.95412177,
+          48.4828773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 6,
+        "stat_num": 633,
+        "stat_ID": "ANJO",
+        "stat_name": "Anjou (EXO)",
+        "street_num": "",
+        "street": "8e Rue",
+        "address_2": "",
+        "city": "Montreal",
+        "province": "Quebec",
+        "postal_code": "H1E 2Z6",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59680183,
+          45.617796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 7,
+        "stat_num": 106,
+        "stat_ID": "ARMG",
+        "stat_name": "Armstrong",
+        "street_num": "",
+        "street": "King Street",
+        "address_2": "",
+        "city": "Unorganized Thunder Bay District",
+        "province": "Ontario",
+        "postal_code": "P0T 1A0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.037603,
+          50.301424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 8,
+        "stat_num": 102,
+        "stat_ID": "AUDN",
+        "stat_name": "Auden",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized Thunder Bay District",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.88987518,
+          50.22916625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 9,
+        "stat_num": 220,
+        "stat_ID": "AZIL",
+        "stat_name": "Azilda",
+        "street_num": "",
+        "street": "Old Highway 144",
+        "address_2": "",
+        "city": "Greater Sudbury",
+        "province": "Ontario",
+        "postal_code": "P0M 1B0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.138044,
+          46.564107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 10,
+        "stat_num": 415,
+        "stat_ID": "BLVL",
+        "stat_name": "Belleville",
+        "street_num": 250,
+        "street": "Station Street",
+        "address_2": "",
+        "city": "Belleville",
+        "province": "Ontario",
+        "postal_code": "K8P 2T6",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.37455,
+          44.17961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 11,
+        "stat_num": 199,
+        "stat_ID": "BENN",
+        "stat_name": "Benny",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.630163,
+          46.781815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 12,
+        "stat_num": 33,
+        "stat_ID": "BIMA",
+        "stat_name": "Bima",
+        "street_num": "",
+        "street": "Route 3 (Zec Jeannotte)",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.220718,
+          47.379861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 13,
+        "stat_num": 15,
+        "stat_ID": "BISC",
+        "stat_name": "Biscotasing",
+        "street_num": "",
+        "street": "Bisco Road",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.102955,
+          47.299983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 14,
+        "stat_num": 369,
+        "stat_ID": "BGQU",
+        "stat_name": "Bolger",
+        "street_num": "",
+        "street": "Route N-806",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.320778,
+          48.252289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 15,
+        "stat_num": 324,
+        "stat_ID": "BOLK",
+        "stat_name": "Bolkow",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.909323,
+          48.108349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 16,
+        "stat_num": 193,
+        "stat_ID": "BRMT",
+        "stat_name": "Bourmont",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.831881,
+          48.200523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 17,
+        "stat_num": 322,
+        "stat_ID": "BRMP",
+        "stat_name": "Brampton",
+        "street_num": 27,
+        "street": "Church Street West",
+        "address_2": "",
+        "city": "Brampton",
+        "province": "Ontario",
+        "postal_code": "L6X 1S9",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.76448,
+          43.68685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 18,
+        "stat_num": 162,
+        "stat_ID": "BRTF",
+        "stat_name": "Brantford",
+        "street_num": "",
+        "street": "Wadsworth Street",
+        "address_2": "",
+        "city": "Brantford",
+        "province": "Ontario",
+        "postal_code": "N3T 3V5",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.265709,
+          43.146686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 19,
+        "stat_num": 35,
+        "stat_ID": "BRKV",
+        "stat_name": "Brockville",
+        "street_num": 141,
+        "street": "Perth Street",
+        "address_2": "",
+        "city": "Brockville",
+        "province": "Ontario",
+        "postal_code": "K6V 5E3",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.692713,
+          44.592113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 20,
+        "stat_num": 245,
+        "stat_ID": "BRQU",
+        "stat_name": "Brooks",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.155817,
+          47.854125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 21,
+        "stat_num": 321,
+        "stat_ID": "CANN",
+        "stat_name": "Cann",
+        "street_num": "",
+        "street": "Route 461",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.881907,
+          47.902677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 22,
+        "stat_num": 113,
+        "stat_ID": "CAPR",
+        "stat_name": "Capreol",
+        "street_num": "",
+        "street": "Lakeshore Street",
+        "address_2": "",
+        "city": "Greater Sudbury",
+        "province": "Ontario",
+        "postal_code": "P3P 1J1",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.929777,
+          46.711226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 23,
+        "stat_num": 98,
+        "stat_ID": "CARA",
+        "stat_name": "Caramat",
+        "street_num": 1011,
+        "street": "Spruce Avenue",
+        "address_2": "",
+        "city": "",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13815,
+          49.617783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 24,
+        "stat_num": 250,
+        "stat_ID": "CARI",
+        "stat_name": "Caribou",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.215804,
+          47.733048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 25,
+        "stat_num": 312,
+        "stat_ID": "CART",
+        "stat_name": "Cartier",
+        "street_num": "",
+        "street": "Spencer Avenue",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "P0M 1J0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.557264,
+          46.706104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 26,
+        "stat_num": 216,
+        "stat_ID": "CASY",
+        "stat_name": "Casey",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.181031,
+          47.887858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 27,
+        "stat_num": 419,
+        "stat_ID": "CSLM",
+        "stat_name": "Casselman",
+        "street_num": "",
+        "street": "Station Street",
+        "address_2": "",
+        "city": "",
+        "province": "Ontario",
+        "postal_code": "K0A 1M0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.08719739,
+          45.3122869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 28,
+        "stat_num": 87,
+        "stat_ID": "CAUS",
+        "stat_name": "Causapscal",
+        "street_num": "",
+        "street": "Rue Cartier",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G0J 1J0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.22720062,
+          48.34960664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 29,
+        "stat_num": 439,
+        "stat_ID": "CHBD",
+        "stat_name": "Chambord",
+        "street_num": 169,
+        "street": "Rue de la Gare",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G0W 1G0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.058875,
+          48.421329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 30,
+        "stat_num": 205,
+        "stat_ID": "CHAP",
+        "stat_name": "Chapleau",
+        "street_num": "",
+        "street": "Dufferin Street",
+        "address_2": "",
+        "city": "Chapleau Township",
+        "province": "Ontario",
+        "postal_code": "P0M 1K0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.40313,
+          47.841444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 31,
+        "stat_num": 82,
+        "stat_ID": "CHRT",
+        "stat_name": "Charette",
+        "street_num": 266,
+        "street": "Rue Notre-Dame",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.921677,
+          46.442072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 32,
+        "stat_num": 492,
+        "stat_ID": "CHNY",
+        "stat_name": "Charny",
+        "street_num": "",
+        "street": "Rue du Rail",
+        "address_2": "",
+        "city": "Lévis",
+        "province": "Quebec",
+        "postal_code": "G6X 2V5",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.27061225,
+          46.71354597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 33,
+        "stat_num": 601,
+        "stat_ID": "CHAT",
+        "stat_name": "Chatham",
+        "street_num": 360,
+        "street": "Queen Street",
+        "address_2": "",
+        "city": "Chatham",
+        "province": "Ontario",
+        "postal_code": "N7M 2H6",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.179615,
+          42.397264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 34,
+        "stat_num": 2,
+        "stat_ID": "CHEL",
+        "stat_name": "Chelmsford",
+        "street_num": "",
+        "street": "Lorne Street",
+        "address_2": "",
+        "city": "Greater Sudbury",
+        "province": "Ontario",
+        "postal_code": "P0M 1L0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.196787,
+          46.585767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 35,
+        "stat_num": 45,
+        "stat_ID": "CHER",
+        "stat_name": "Cherokee",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.229872,
+          47.724138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 36,
+        "stat_num": 390,
+        "stat_ID": "CLOV",
+        "stat_name": "Clova",
+        "street_num": 5,
+        "street": "Rue Latagne",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G0X 3M0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.359707,
+          48.109629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 37,
+        "stat_num": 190,
+        "stat_ID": "BDNC",
+        "stat_name": "Club Beaudin",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.896548,
+          48.211017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 38,
+        "stat_num": 397,
+        "stat_ID": "BLGC",
+        "stat_name": "Club Belanger",
+        "street_num": "",
+        "street": "Route 461",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.932947,
+          47.923895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 39,
+        "stat_num": 48,
+        "stat_ID": "GRGC",
+        "stat_name": "Club Gregoire",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.182779,
+          47.769223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 40,
+        "stat_num": 319,
+        "stat_ID": "IRQC",
+        "stat_name": "Club Iroquois",
+        "street_num": "",
+        "street": "Route 3 (Zec Jeannotte)",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.232099,
+          47.419572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 41,
+        "stat_num": 209,
+        "stat_ID": "JACC",
+        "stat_name": "Club Jacques-Cartier",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Linton",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.212538,
+          47.318543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 42,
+        "stat_num": 160,
+        "stat_ID": "KPTC",
+        "stat_name": "Club Kapitachuan",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.808768,
+          48.19652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 43,
+        "stat_num": 52,
+        "stat_ID": "LIZO",
+        "stat_name": "Club Lizotte",
+        "street_num": "",
+        "street": "1e Chemin du Lac-au-Mirage",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.17883,
+          48.100262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 44,
+        "stat_num": 182,
+        "stat_ID": "MWWC",
+        "stat_name": "Club Maniwawa",
+        "street_num": "",
+        "street": "Chemin de Clova",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.895755,
+          48.067995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 45,
+        "stat_num": 399,
+        "stat_ID": "NCLC",
+        "stat_name": "Club Nicol",
+        "street_num": "",
+        "street": "Route de la Seigneurie du triton",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.24106,
+          47.575221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 46,
+        "stat_num": 384,
+        "stat_ID": "RTAC",
+        "stat_name": "Club Rita",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.848222,
+          48.006695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 47,
+        "stat_num": 32,
+        "stat_ID": "SSCC",
+        "stat_name": "Club Sisco",
+        "street_num": "",
+        "street": "Route 461",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.374236,
+          47.879104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 48,
+        "stat_num": 121,
+        "stat_ID": "SMMC",
+        "stat_name": "Club Sommet",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.186737,
+          47.783394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 49,
+        "stat_num": 217,
+        "stat_ID": "TRTC",
+        "stat_name": "Club Triton",
+        "street_num": "",
+        "street": "Route de la Seigneurie du triton",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.244177,
+          47.61346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 50,
+        "stat_num": 411,
+        "stat_ID": "VMLC",
+        "stat_name": "Club Vermillon",
+        "street_num": "",
+        "street": "Chemin Rapide-Blanc-Station",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.983141,
+          47.661959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 51,
+        "stat_num": 178,
+        "stat_ID": "CBRG",
+        "stat_name": "Cobourg",
+        "street_num": 523,
+        "street": "George Street",
+        "address_2": "",
+        "city": "",
+        "province": "Ontario",
+        "postal_code": "K9A 3S6",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.17151,
+          43.96778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 52,
+        "stat_num": 105,
+        "stat_ID": "COLL",
+        "stat_name": "Collins",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized Thunder Bay District",
+        "province": "Ontario",
+        "postal_code": "P0V 1M0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.448909,
+          50.295803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 53,
+        "stat_num": 392,
+        "stat_ID": "CBAT",
+        "stat_name": "Consolidated Bathurst",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.747552,
+          48.194328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 54,
+        "stat_num": 180,
+        "stat_ID": "COQU",
+        "stat_name": "Coquar",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.478574,
+          48.11871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 55,
+        "stat_num": 602,
+        "stat_ID": "CWLL",
+        "stat_name": "Cornwall",
+        "street_num": "",
+        "street": "Station Road",
+        "address_2": "",
+        "city": "Cornwall",
+        "province": "Ontario",
+        "postal_code": "K6J 3T7",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.74346322,
+          45.04222848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 56,
+        "stat_num": 351,
+        "stat_ID": "COTO",
+        "stat_name": "Coteau",
+        "street_num": 50,
+        "street": "Rue Daoust",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "J7X 1J7",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23292,
+          45.27488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 57,
+        "stat_num": 147,
+        "stat_ID": "CRSM",
+        "stat_name": "Cressman",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.917838,
+          47.620346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 58,
+        "stat_num": 405,
+        "stat_ID": "DRLL",
+        "stat_name": "Da-Rou-Lac Lodge",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.998533,
+          48.229595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 59,
+        "stat_num": 410,
+        "stat_ID": "DALT",
+        "stat_name": "Dalton",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Algoma",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.034513,
+          48.158228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 60,
+        "stat_num": 407,
+        "stat_ID": "DESS",
+        "stat_name": "Dessane",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.640014,
+          47.885659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 61,
+        "stat_num": 409,
+        "stat_ID": "DEVN",
+        "stat_name": "Devon",
+        "street_num": "",
+        "street": "Devon Road",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.36704,
+          47.759732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 62,
+        "stat_num": 423,
+        "stat_ID": "DIXX",
+        "stat_name": "Dix",
+        "street_num": "",
+        "street": "R0806",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.147166,
+          48.253429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 63,
+        "stat_num": 332,
+        "stat_ID": "DORV",
+        "stat_name": "Dorval",
+        "street_num": "",
+        "street": "Dorval",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "H9P 1B8",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.74128,
+          45.44892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 64,
+        "stat_num": 630,
+        "stat_ID": "DRMV",
+        "stat_name": "Drummondville",
+        "street_num": "",
+        "street": "Rue Lindsay",
+        "address_2": "",
+        "city": "Drummondville",
+        "province": "Quebec",
+        "postal_code": "J2B 1G4",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.487905,
+          45.882431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 65,
+        "stat_num": 425,
+        "stat_ID": "DUPL",
+        "stat_name": "Duplessis",
+        "street_num": "",
+        "street": "Chemin Pourvoirie Duplessis",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.208067,
+          47.700376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 66,
+        "stat_num": 88,
+        "stat_ID": "ELSA",
+        "stat_name": "Elsas",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Algoma",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9031,
+          48.521081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 67,
+        "stat_num": 429,
+        "stat_ID": "ESHR",
+        "stat_name": "Esher",
+        "street_num": "",
+        "street": "Esher Road",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.563047,
+          47.852356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 68,
+        "stat_num": 576,
+        "stat_ID": "FALL",
+        "stat_name": "Fallowfield",
+        "street_num": "",
+        "street": "Transitway",
+        "address_2": "",
+        "city": "Ottawa",
+        "province": "Ontario",
+        "postal_code": "K2J 5K9",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.736708,
+          45.299303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 69,
+        "stat_num": 27,
+        "stat_ID": "FALR",
+        "stat_name": "Falrie",
+        "street_num": "",
+        "street": "Route 3 (Zec Jeannotte)",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.202275,
+          47.337513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 70,
+        "stat_num": 72,
+        "stat_ID": "FELX",
+        "stat_name": "Felix",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.407763,
+          47.20425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 71,
+        "stat_num": 83,
+        "stat_ID": "FERG",
+        "stat_name": "Ferguson",
+        "street_num": "",
+        "street": "Chemin de Ferguson",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.41743,
+          47.812961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 72,
+        "stat_num": 103,
+        "stat_ID": "FERL",
+        "stat_name": "Ferland",
+        "street_num": "",
+        "street": "Ferland Road",
+        "address_2": "",
+        "city": "Unorganized Thunder Bay District",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.42599009,
+          50.31441928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 73,
+        "stat_num": 441,
+        "stat_ID": "FITZ",
+        "stat_name": "Fitzpatrick",
+        "street_num": "",
+        "street": "Chemin Fitzpatrick",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G9X 2G3",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.773522,
+          47.484804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 74,
+        "stat_num": 79,
+        "stat_ID": "FOLE",
+        "stat_name": "Foleyet",
+        "street_num": "",
+        "street": "Railroad Avenue",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "P0M 1T0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.440259,
+          48.246841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 75,
+        "stat_num": 639,
+        "stat_ID": "FRKS",
+        "stat_name": "Forks",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.86376235,
+          47.04878195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 76,
+        "stat_num": 129,
+        "stat_ID": "FORS",
+        "stat_name": "Forsythe",
+        "street_num": "",
+        "street": "Chemin de Pénétration",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.428337,
+          48.235417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 77,
+        "stat_num": 127,
+        "stat_ID": "FRNZ",
+        "stat_name": "Franz",
+        "street_num": "",
+        "street": "Franz Road",
+        "address_2": "",
+        "city": "Unorganized North Algoma",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.412073,
+          48.465157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 78,
+        "stat_num": 163,
+        "stat_ID": "GAGN",
+        "stat_name": "Gagnon",
+        "street_num": "",
+        "street": "Chemin de la Gare Gagnon-Siding",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.113722,
+          48.249485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 79,
+        "stat_num": 200,
+        "stat_ID": "GANA",
+        "stat_name": "Gananoque",
+        "street_num": "",
+        "street": "Station Road",
+        "address_2": "",
+        "city": "Leeds and the Thousand Islands",
+        "province": "Ontario",
+        "postal_code": "K7G 1H3",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.15373,
+          44.36881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 80,
+        "stat_num": 126,
+        "stat_ID": "GARN",
+        "stat_name": "Garneau",
+        "street_num": "",
+        "street": "Rue du Triage",
+        "address_2": "",
+        "city": "Shawinigan",
+        "province": "Quebec",
+        "postal_code": "G9T 5K4",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.638243,
+          46.640001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 81,
+        "stat_num": 6,
+        "stat_ID": "GEOR",
+        "stat_name": "Georgetown",
+        "street_num": "",
+        "street": "GO parking lot",
+        "address_2": "",
+        "city": "",
+        "province": "Ontario",
+        "postal_code": "L7G 2H6",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.91912,
+          43.65551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 82,
+        "stat_num": 214,
+        "stat_ID": "GIRD",
+        "stat_name": "Girdwood",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Algoma",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.771044,
+          48.457978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 83,
+        "stat_num": 78,
+        "stat_ID": "GLNC",
+        "stat_name": "Glencoe",
+        "street_num": "",
+        "street": "Graham Street",
+        "address_2": "",
+        "city": "Southwest Middlesex",
+        "province": "Ontario",
+        "postal_code": "N0L 1M0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71155,
+          42.745843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 84,
+        "stat_num": 74,
+        "stat_ID": "GOGA",
+        "stat_name": "Gogama",
+        "street_num": "",
+        "street": "McGowan Street",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7237169,
+          47.67611051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 85,
+        "stat_num": 132,
+        "stat_ID": "GMRE",
+        "stat_name": "Grand-Mere",
+        "street_num": 710,
+        "street": "Chemin du Grand-Nord",
+        "address_2": "",
+        "city": "Shawinigan",
+        "province": "Quebec",
+        "postal_code": "G9T 2H4",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.686678,
+          46.605875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 86,
+        "stat_num": 448,
+        "stat_ID": "GRNG",
+        "stat_name": "Greening",
+        "street_num": "",
+        "street": "Chemin de Clova",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.968387,
+          48.117385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 87,
+        "stat_num": 1,
+        "stat_ID": "GRIM",
+        "stat_name": "Grimsby",
+        "street_num": "",
+        "street": "Ontario Street",
+        "address_2": "",
+        "city": "",
+        "province": "Ontario",
+        "postal_code": "L3M 3H6",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.55817885,
+          43.19602272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 88,
+        "stat_num": 70,
+        "stat_ID": "GUEL",
+        "stat_name": "Guelph",
+        "street_num": "",
+        "street": "Macdonell Street",
+        "address_2": "",
+        "city": "Guelph",
+        "province": "Ontario",
+        "postal_code": "N1H 0A9",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.245602,
+          43.545251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 89,
+        "stat_num": 450,
+        "stat_ID": "GUIL",
+        "stat_name": "Guildwood",
+        "street_num": "",
+        "street": "Westlake Road",
+        "address_2": "",
+        "city": "Toronto",
+        "province": "Ontario",
+        "postal_code": "M1E 1L8",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.19826327,
+          43.75482368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 90,
+        "stat_num": 453,
+        "stat_ID": "HEBV",
+        "stat_name": "Hebertville",
+        "street_num": "",
+        "street": "Rue Saint-Louis",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G0W 2L0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.662407,
+          48.443477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 91,
+        "stat_num": 437,
+        "stat_ID": "HERV",
+        "stat_name": "Hervey",
+        "street_num": "",
+        "street": "Chemin Saint-Charles",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G0X 3G0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.46785839,
+          46.85363155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 92,
+        "stat_num": 417,
+        "stat_ID": "HIBB",
+        "stat_name": "Hibbard",
+        "street_num": "",
+        "street": "Route 461",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.043022,
+          47.86724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 93,
+        "stat_num": 91,
+        "stat_ID": "HLSP",
+        "stat_name": "Hillsport",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized Thunder Bay District",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54803,
+          49.451026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 94,
+        "stat_num": 134,
+        "stat_ID": "HRDL",
+        "stat_name": "Hirondelle",
+        "street_num": "",
+        "street": "Chemin Lac aux perles",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.243315,
+          47.536637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 95,
+        "stat_num": 63,
+        "stat_ID": "HNPN",
+        "stat_name": "Hornepayne",
+        "street_num": "",
+        "street": "5th Avenue",
+        "address_2": "",
+        "city": "Hornepayne Township",
+        "province": "Ontario",
+        "postal_code": "P0M 1Z0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.773569,
+          49.217193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 96,
+        "stat_num": 323,
+        "stat_ID": "INGR",
+        "stat_name": "Ingersoll",
+        "street_num": "",
+        "street": "Via Rail Driveway",
+        "address_2": "",
+        "city": "",
+        "province": "Ontario",
+        "postal_code": "N5C 3C6",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.887906,
+          43.04063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 97,
+        "stat_num": 457,
+        "stat_ID": "JOLI",
+        "stat_name": "Joliette",
+        "street_num": 380,
+        "street": "Rue Champlain",
+        "address_2": "",
+        "city": "Joliette",
+        "province": "Quebec",
+        "postal_code": "J6E 2S1",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.44401913,
+          46.02947097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 98,
+        "stat_num": 444,
+        "stat_ID": "JONQ",
+        "stat_name": "Jonquiere",
+        "street_num": 3875,
+        "street": "Rue Colbert",
+        "address_2": "",
+        "city": "Saguenay",
+        "province": "Quebec",
+        "postal_code": "G7X 9B1",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2544,
+          48.41189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 99,
+        "stat_num": 58,
+        "stat_ID": "KGON",
+        "stat_name": "Kingston",
+        "street_num": "",
+        "street": "John Counter Boulevard",
+        "address_2": "",
+        "city": "Kingston",
+        "province": "Ontario",
+        "postal_code": "K7M 0C8",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.53662318,
+          44.25701645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 100,
+        "stat_num": 420,
+        "stat_ID": "KINO",
+        "stat_name": "Kinogama",
+        "street_num": "",
+        "street": "Kormak Road",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.012966,
+          47.644993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 101,
+        "stat_num": 161,
+        "stat_ID": "KISK",
+        "stat_name": "Kiskisink",
+        "street_num": "",
+        "street": "Chemin Van Bruyssel-Kiskissink",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.146402,
+          47.931659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 102,
+        "stat_num": 114,
+        "stat_ID": "KITC",
+        "stat_name": "Kitchener",
+        "street_num": "",
+        "street": "Breithaupt Street",
+        "address_2": "",
+        "city": "Kitchener",
+        "province": "Ontario",
+        "postal_code": "N2H 4C3",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.49320687,
+          43.45574103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 103,
+        "stat_num": 177,
+        "stat_ID": "KOND",
+        "stat_name": "Kondiaronk",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.181081,
+          48.017363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 104,
+        "stat_num": 164,
+        "stat_ID": "KORM",
+        "stat_name": "Kormak",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.972526,
+          47.631224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 105,
+        "stat_num": 138,
+        "stat_ID": "LPOC",
+        "stat_name": "La Pocatiere",
+        "street_num": "",
+        "street": "Avenue de la Gare",
+        "address_2": "",
+        "city": "Sainte-Anne-de-la-Pocatière",
+        "province": "Quebec",
+        "postal_code": "G0R 1Z0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02527082,
+          47.36114399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 106,
+        "stat_num": 433,
+        "stat_ID": "LTUQ",
+        "stat_name": "La Tuque",
+        "street_num": "",
+        "street": "Rue Lucien-Filion",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G9X 2X6",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.782394,
+          47.439397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 107,
+        "stat_num": 404,
+        "stat_ID": "LBOU",
+        "stat_name": "Lac Bouchette",
+        "street_num": 129,
+        "street": "Route Victor-Delamarre",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.173124,
+          48.269402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 108,
+        "stat_num": 203,
+        "stat_ID": "LDAR",
+        "stat_name": "Lac Darey",
+        "street_num": "",
+        "street": "Chemin Pourvoirie Duplessis",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.140477,
+          47.670897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 109,
+        "stat_num": 51,
+        "stat_ID": "LDES",
+        "stat_name": "Lac des Roches",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.18357,
+          47.999726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 110,
+        "stat_num": 183,
+        "stat_ID": "LEDW",
+        "stat_name": "Lac Edouard",
+        "street_num": "",
+        "street": "Rue Edmond",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.269451,
+          47.666458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 111,
+        "stat_num": 46,
+        "stat_ID": "LMAL",
+        "stat_name": "Lac Malouin",
+        "street_num": "",
+        "street": "Route 3 (Zec Jeannotte)",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.224329,
+          47.394387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 112,
+        "stat_num": 255,
+        "stat_ID": "PRLL",
+        "stat_name": "Lac-aux-Perles",
+        "street_num": "",
+        "street": "Chemin Lac aux perles",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.234964,
+          47.532284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 113,
+        "stat_num": 65,
+        "stat_ID": "LAFO",
+        "stat_name": "Laforest",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.21421342,
+          47.03468259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 114,
+        "stat_num": 394,
+        "stat_ID": "LNGL",
+        "stat_name": "Langlade",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.987016,
+          48.230335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 115,
+        "stat_num": 184,
+        "stat_ID": "LARC",
+        "stat_name": "Larchwood",
+        "street_num": "",
+        "street": "Highway 144",
+        "address_2": "",
+        "city": "Greater Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.286303,
+          46.57262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 116,
+        "stat_num": 192,
+        "stat_ID": "LEVA",
+        "stat_name": "Levack",
+        "street_num": "",
+        "street": "Highway 144",
+        "address_2": "",
+        "city": "Greater Sudbury",
+        "province": "Ontario",
+        "postal_code": "P0M 2R0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.434048,
+          46.616805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 117,
+        "stat_num": 391,
+        "stat_ID": "LOCH",
+        "stat_name": "Lochalsh",
+        "street_num": "",
+        "street": "Old Lochalsh Road",
+        "address_2": "",
+        "city": "Unorganized North Algoma",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.264006,
+          48.351378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 118,
+        "stat_num": 93,
+        "stat_ID": "LNDN",
+        "stat_name": "London",
+        "street_num": 205,
+        "street": "York Street",
+        "address_2": "",
+        "city": "London",
+        "province": "Ontario",
+        "postal_code": "N6A 1B1",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.246734,
+          42.98099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 119,
+        "stat_num": 95,
+        "stat_ID": "LLAC",
+        "stat_name": "Longlac",
+        "street_num": "",
+        "street": "National Street",
+        "address_2": "",
+        "city": "",
+        "province": "Ontario",
+        "postal_code": "P0T 2A0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.534975,
+          49.771858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 120,
+        "stat_num": 34,
+        "stat_ID": "MALT",
+        "stat_name": "Malton",
+        "street_num": "",
+        "street": "Derry Road East",
+        "address_2": "",
+        "city": "Mississauga",
+        "province": "Ontario",
+        "postal_code": "L4T 4J3",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.638141,
+          43.704865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 121,
+        "stat_num": 215,
+        "stat_ID": "MJBG",
+        "stat_name": "Manjobagues",
+        "street_num": "",
+        "street": "Route 461",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.471608,
+          47.872818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 122,
+        "stat_num": 110,
+        "stat_ID": "MTPD",
+        "stat_name": "Matapedia",
+        "street_num": "",
+        "street": "Rue Macdonell",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G0J 1V0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9392201,
+          47.97475331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 123,
+        "stat_num": 212,
+        "stat_ID": "MCCA",
+        "stat_name": "McCarthy",
+        "street_num": "",
+        "street": "Route 461",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.348003,
+          47.860133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 124,
+        "stat_num": 68,
+        "stat_ID": "MCKC",
+        "stat_name": "McKee's Camp",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.25902806,
+          47.10646002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 125,
+        "stat_num": 171,
+        "stat_ID": "MCTC",
+        "stat_name": "McTavish",
+        "street_num": "",
+        "street": "Route 11",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G9X 3P4",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.32004,
+          47.761601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 126,
+        "stat_num": 381,
+        "stat_ID": "MEGI",
+        "stat_name": "Megiscane",
+        "street_num": "",
+        "street": "Chemin de Pénétration",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.084163,
+          48.332994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 127,
+        "stat_num": 218,
+        "stat_ID": "MTGM",
+        "stat_name": "Metagama",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94363,
+          47.092646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 128,
+        "stat_num": 26,
+        "stat_ID": "MIQK",
+        "stat_name": "Miquick",
+        "street_num": "",
+        "street": 2,
+        "address_2": "",
+        "city": "Linton",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.251321,
+          47.219874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 129,
+        "stat_num": 376,
+        "stat_ID": "MSBI",
+        "stat_name": "Missanabie",
+        "street_num": 14,
+        "street": "Curran Street",
+        "address_2": "",
+        "city": "Unorganized North Algoma",
+        "province": "Ontario",
+        "postal_code": "P0M 2H0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.084871,
+          48.311259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 130,
+        "stat_num": 253,
+        "stat_ID": "MNET",
+        "stat_name": "Monet",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.643856,
+          48.169482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 131,
+        "stat_num": 342,
+        "stat_ID": "MJLI",
+        "stat_name": "Mont-Joli",
+        "street_num": 67,
+        "street": "Avenue de la Gare",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G5H 2V0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.188993,
+          48.589238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 132,
+        "stat_num": 54,
+        "stat_ID": "MMGY",
+        "stat_name": "Montmagny",
+        "street_num": 4,
+        "street": "Rue de la Station",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G5V 2P1",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5596334,
+          46.97326607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 133,
+        "stat_num": 226,
+        "stat_ID": "MTRL",
+        "stat_name": "Montreal",
+        "street_num": "",
+        "street": "Rue Belmont",
+        "address_2": "",
+        "city": "Montreal",
+        "province": "Quebec",
+        "postal_code": "H3B 4G1",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56617854,
+          45.49991952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 134,
+        "stat_num": 101,
+        "stat_ID": "MUDR",
+        "stat_name": "Mud River",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized Thunder Bay District",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51664898,
+          50.31852454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 135,
+        "stat_num": 395,
+        "stat_ID": "MUSK",
+        "stat_name": "Musk",
+        "street_num": "",
+        "street": "Austin Road",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.707179,
+          47.949026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 136,
+        "stat_num": 99,
+        "stat_ID": "NAKI",
+        "stat_name": "Nakina",
+        "street_num": 163,
+        "street": "Railway Avenue",
+        "address_2": "",
+        "city": "",
+        "province": "Ontario",
+        "postal_code": "P0T 2H0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.71351,
+          50.17773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 137,
+        "stat_num": 309,
+        "stat_ID": "NAPN",
+        "stat_name": "Napanee",
+        "street_num": "",
+        "street": "Dairy Avenue",
+        "address_2": "",
+        "city": "",
+        "province": "Ontario",
+        "postal_code": "K7R 3K6",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.954262,
+          44.25365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 138,
+        "stat_num": 230,
+        "stat_ID": "NEME",
+        "stat_name": "Nemegos",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.202617,
+          47.72532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 139,
+        "stat_num": 360,
+        "stat_ID": "NICH",
+        "stat_name": "Nicholson",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.765483,
+          47.957417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 140,
+        "stat_num": 293,
+        "stat_ID": "OBRI",
+        "stat_name": "O'Brien",
+        "street_num": "",
+        "street": "Highway 17",
+        "address_2": "",
+        "city": "Unorganized North Algoma",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.139115,
+          48.517478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 141,
+        "stat_num": 436,
+        "stat_ID": "OAKV",
+        "stat_name": "Oakville",
+        "street_num": "",
+        "street": "Cornwall Road",
+        "address_2": "",
+        "city": "Oakville",
+        "province": "Ontario",
+        "postal_code": "L6J 3J1",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.682462,
+          43.454895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 142,
+        "stat_num": 92,
+        "stat_ID": "OBAX",
+        "stat_name": "Oba",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Algoma",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.105718,
+          49.059565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 143,
+        "stat_num": 367,
+        "stat_ID": "OSHA",
+        "stat_name": "Oshawa",
+        "street_num": "",
+        "street": "Thornton Road South",
+        "address_2": "",
+        "city": "Oshawa",
+        "province": "Ontario",
+        "postal_code": "L1J 6W8",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88462583,
+          43.8708276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 144,
+        "stat_num": 303,
+        "stat_ID": "OSKL",
+        "stat_name": "Oskelaneo Lodge",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.056591,
+          48.111198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 145,
+        "stat_num": 617,
+        "stat_ID": "OTTW",
+        "stat_name": "Ottawa",
+        "street_num": 200,
+        "street": "Tremblay Road",
+        "address_2": "",
+        "city": "Ottawa",
+        "province": "Ontario",
+        "postal_code": "K1G 3H5",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.65151,
+          45.41599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 146,
+        "stat_num": 426,
+        "stat_ID": "PARE",
+        "stat_name": "Parent",
+        "street_num": "",
+        "street": "Rue Commerciale",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G0X 3P0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.614225,
+          47.91958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 147,
+        "stat_num": 69,
+        "stat_ID": "PARS",
+        "stat_name": "Parry Sound",
+        "street_num": 1,
+        "street": "Station Street",
+        "address_2": "",
+        "city": "",
+        "province": "Ontario",
+        "postal_code": "P2A 1Y7",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03713625,
+          45.35076028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 148,
+        "stat_num": 248,
+        "stat_ID": "POGA",
+        "stat_name": "Pogamasing",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773197,
+          46.908917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 149,
+        "stat_num": 37,
+        "stat_ID": "PBDT",
+        "stat_name": "Pont Beaudet",
+        "street_num": "",
+        "street": "Route 3 (Zec Jeannotte)",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.199959,
+          47.355582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 150,
+        "stat_num": 9,
+        "stat_ID": "PHOP",
+        "stat_name": "Port Hope",
+        "street_num": "",
+        "street": "Hayward Street",
+        "address_2": "",
+        "city": "",
+        "province": "Ontario",
+        "postal_code": "L1A 1B2",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.299017,
+          43.943592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 151,
+        "stat_num": 55,
+        "stat_ID": "PRSS",
+        "stat_name": "Press",
+        "street_num": "",
+        "street": "Chemin de Pénétration",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.73338,
+          48.242405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 152,
+        "stat_num": 628,
+        "stat_ID": "QBEC",
+        "stat_name": "Quebec",
+        "street_num": "",
+        "street": "Pont-Tunnel Joseph-Samson",
+        "address_2": "",
+        "city": "Quebec",
+        "province": "Quebec",
+        "postal_code": "G1K 3X2",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.21461428,
+          46.81857104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 153,
+        "stat_num": 265,
+        "stat_ID": "RAMS",
+        "stat_name": "Ramsey",
+        "street_num": "",
+        "street": "Ramsey Siding",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.338701,
+          47.446379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 154,
+        "stat_num": 320,
+        "stat_ID": "RAPB",
+        "stat_name": "Rapide Blanc",
+        "street_num": "",
+        "street": "Chemin Rapide-Blanc-Station",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.003801,
+          47.671688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 155,
+        "stat_num": 328,
+        "stat_ID": "RMSK",
+        "stat_name": "Rimouski",
+        "street_num": "",
+        "street": "Rue Saint-Jean-Baptiste Est",
+        "address_2": "",
+        "city": "Rimouski",
+        "province": "Quebec",
+        "postal_code": "G5L 1T6",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.52121309,
+          48.45009869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 156,
+        "stat_num": 276,
+        "stat_ID": "OSKR",
+        "stat_name": "Rivere Oskelaneo",
+        "street_num": "",
+        "street": "Route forestière 404",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.204927,
+          48.10816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 157,
+        "stat_num": 327,
+        "stat_ID": "RDLX",
+        "stat_name": "Riviere-du-Loup",
+        "street_num": "",
+        "street": "Rue Lafontaine",
+        "address_2": "",
+        "city": "Rivière-du-Loup",
+        "province": "Quebec",
+        "postal_code": "G5R 2K4",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.52767374,
+          47.8252985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 158,
+        "stat_num": 350,
+        "stat_ID": "RAPX",
+        "stat_name": "Riviere-St-Pierre",
+        "street_num": "",
+        "street": "Rue des Loisirs",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G0A 3A0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.17939,
+          46.989034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 159,
+        "stat_num": 315,
+        "stat_ID": "RBRT",
+        "stat_name": "Roberts",
+        "street_num": "",
+        "street": "Bisco Road",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.199461,
+          47.330224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 160,
+        "stat_num": 28,
+        "stat_ID": "ROUS",
+        "stat_name": "Rousseau",
+        "street_num": 975,
+        "street": "Route Rousseau",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.286532,
+          46.9338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 161,
+        "stat_num": 71,
+        "stat_ID": "RUEL",
+        "stat_name": "Ruel",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.467846,
+          47.25921659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 162,
+        "stat_num": 94,
+        "stat_ID": "SHPN",
+        "stat_name": "Saint-Hilaire de Portneuf",
+        "street_num": "",
+        "street": "Route 3 (Zec Jeannotte)",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.211128,
+          47.366521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 163,
+        "stat_num": 631,
+        "stat_ID": "SHYA",
+        "stat_name": "Saint-Hyacinthe",
+        "street_num": "",
+        "street": "Rue Sicotte",
+        "address_2": "",
+        "city": "Saint-Hyacinthe",
+        "province": "Quebec",
+        "postal_code": "J2S 0L7",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.94893143,
+          45.62770762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 164,
+        "stat_num": 43,
+        "stat_ID": "SJUS",
+        "stat_name": "Saint-Justin",
+        "street_num": "",
+        "street": "Rue Duchesnay",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.109586,
+          46.27314546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 165,
+        "stat_num": 343,
+        "stat_ID": "SLAM",
+        "stat_name": "Saint-Lambert",
+        "street_num": 329,
+        "street": "Avenue Saint-Denis",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "J4P 2G5",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.50745979,
+          45.49907918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 166,
+        "stat_num": 295,
+        "stat_ID": "SMRB",
+        "stat_name": "Saint-Maurice Riviere Boom",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G0X 3R0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.749198,
+          47.898494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 167,
+        "stat_num": 130,
+        "stat_ID": "SPAU",
+        "stat_name": "Saint-Paulin",
+        "street_num": "",
+        "street": "Rang Renversy",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "J0K 3G0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.01596515,
+          46.40109545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 168,
+        "stat_num": 38,
+        "stat_ID": "STIT",
+        "stat_name": "Saint-Tite",
+        "street_num": "",
+        "street": "Rue Marchildon",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G0X 3H0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.56415695,
+          46.72311642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 169,
+        "stat_num": 629,
+        "stat_ID": "SFOY",
+        "stat_name": "Sainte-Foy",
+        "street_num": "",
+        "street": "Rue du Domaine-des-Retraités",
+        "address_2": "",
+        "city": "Quebec",
+        "province": "Quebec",
+        "postal_code": "G1W 4V4",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.29757499,
+          46.7542383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 170,
+        "stat_num": 39,
+        "stat_ID": "SANF",
+        "stat_name": "Sanford",
+        "street_num": "",
+        "street": "Chemin du Trappeur (Zec Jeannotte)",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.219226,
+          47.48238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 171,
+        "stat_num": 306,
+        "stat_ID": "SANM",
+        "stat_name": "Sanmaur",
+        "street_num": "",
+        "street": "Chemin de Wemotaci",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G0X 3R0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.795987,
+          47.893778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 172,
+        "stat_num": 341,
+        "stat_ID": "SARN",
+        "stat_name": "Sarnia",
+        "street_num": "",
+        "street": "Green Street",
+        "address_2": "",
+        "city": "Sarnia",
+        "province": "Ontario",
+        "postal_code": "N7T 2K4",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38892,
+          42.95709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 173,
+        "stat_num": 634,
+        "stat_ID": "SAUV",
+        "stat_name": "Sauve (EXO)",
+        "street_num": "",
+        "street": "Rue Saint-Denis",
+        "address_2": "",
+        "city": "Montreal",
+        "province": "Quebec",
+        "postal_code": "H2M 1P2",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6543026,
+          45.5494849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 174,
+        "stat_num": 42,
+        "stat_ID": "SAYA",
+        "stat_name": "Sayabec",
+        "street_num": "",
+        "street": "Rue Lacroix",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G0J 3K0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.689528,
+          48.558674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 175,
+        "stat_num": 460,
+        "stat_ID": "SENN",
+        "stat_name": "Senneterre",
+        "street_num": "",
+        "street": "4e Rue Ouest",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "J0Y 2M0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.244388,
+          48.392294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 176,
+        "stat_num": 459,
+        "stat_ID": "SHWN",
+        "stat_name": "Shawinigan",
+        "street_num": "",
+        "street": "Chemin du CNR",
+        "address_2": "",
+        "city": "Shawinigan",
+        "province": "Quebec",
+        "postal_code": "G9N 2B4",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74526363,
+          46.54982209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 177,
+        "stat_num": 287,
+        "stat_ID": "SHEA",
+        "stat_name": "Sheahan",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.797855,
+          46.940241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 178,
+        "stat_num": 125,
+        "stat_ID": "SIGN",
+        "stat_name": "Signai",
+        "street_num": "",
+        "street": "Chemin de Pénétration",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.82965018,
+          48.2959004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 179,
+        "stat_num": 638,
+        "stat_ID": "SNKR",
+        "stat_name": "Sinker",
+        "street_num": "",
+        "street": "Metagama Road",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.96057112,
+          47.14846329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 180,
+        "stat_num": 377,
+        "stat_ID": "SMTF",
+        "stat_name": "Smiths Falls",
+        "street_num": "",
+        "street": "Union Street",
+        "address_2": "",
+        "city": "",
+        "province": "Ontario",
+        "postal_code": "K7A 2S2",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.024023,
+          44.912455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 181,
+        "stat_num": 60,
+        "stat_ID": "SPAR",
+        "stat_name": "South Parry",
+        "street_num": "",
+        "street": "Avenue Road",
+        "address_2": "",
+        "city": "",
+        "province": "Ontario",
+        "postal_code": "P2A 1Y3",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03788636,
+          45.34590993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 182,
+        "stat_num": 185,
+        "stat_ID": "SCAT",
+        "stat_name": "St. Catharines",
+        "street_num": "",
+        "street": "Great Western Street",
+        "address_2": "",
+        "city": "St. Catharines",
+        "province": "Ontario",
+        "postal_code": "L2S 1L5",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.25637728,
+          43.14766432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 183,
+        "stat_num": 11,
+        "stat_ID": "SMYS",
+        "stat_name": "St. Marys",
+        "street_num": 5,
+        "street": "James Street North",
+        "address_2": "",
+        "city": "",
+        "province": "Ontario",
+        "postal_code": "N4X 1B1",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.13639017,
+          43.26040072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 184,
+        "stat_num": 166,
+        "stat_ID": "STAD",
+        "stat_name": "Stadacona",
+        "street_num": "",
+        "street": "Route 3 (Zec Jeannotte)",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.249148,
+          47.441409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 185,
+        "stat_num": 286,
+        "stat_ID": "STRN",
+        "stat_name": "Strachan",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.865886,
+          48.030046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 186,
+        "stat_num": 329,
+        "stat_ID": "STRL",
+        "stat_name": "Stralak",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.680016,
+          46.804797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 187,
+        "stat_num": 7,
+        "stat_ID": "STRF",
+        "stat_name": "Stratford",
+        "street_num": "",
+        "street": "Nile Street",
+        "address_2": "",
+        "city": "Stratford",
+        "province": "Ontario",
+        "postal_code": "N5A 3W5",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.97574139,
+          43.36437344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 188,
+        "stat_num": 14,
+        "stat_ID": "STRR",
+        "stat_name": "Strathroy",
+        "street_num": "",
+        "street": "Metcalfe Street",
+        "address_2": "",
+        "city": "Strathroy-Caradoc",
+        "province": "Ontario",
+        "postal_code": "N7G 3Z1",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62291953,
+          42.95468221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 189,
+        "stat_num": 621,
+        "stat_ID": "SUDB",
+        "stat_name": "Sudbury",
+        "street_num": "",
+        "street": "Elgin Street",
+        "address_2": "",
+        "city": "Greater Sudbury",
+        "province": "Ontario",
+        "postal_code": "P3E 1E3",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.99221868,
+          46.48737212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 190,
+        "stat_num": 4,
+        "stat_ID": "SUDJ",
+        "stat_name": "Sudbury Jct",
+        "street_num": "",
+        "street": "Lasalle Boulevard",
+        "address_2": "",
+        "city": "Greater Sudbury",
+        "province": "Ontario",
+        "postal_code": "P3A 4R7",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.90208618,
+          46.52461028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 191,
+        "stat_num": 266,
+        "stat_ID": "SULT",
+        "stat_name": "Sultan",
+        "street_num": "",
+        "street": "Highway 667",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.772959,
+          47.594677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 192,
+        "stat_num": 47,
+        "stat_ID": "SMQU",
+        "stat_name": "Summit",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.185186,
+          47.788379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 193,
+        "stat_num": 637,
+        "stat_ID": "SWAN",
+        "stat_name": "Swanson",
+        "street_num": "",
+        "street": "Esnagi Dam",
+        "address_2": "",
+        "city": "Unorganized North Algoma",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53484513,
+          48.48282148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 194,
+        "stat_num": 292,
+        "stat_ID": "TIMB",
+        "stat_name": "Timbrell",
+        "street_num": "",
+        "street": "Chemin de Clova",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.764449,
+          47.968028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 195,
+        "stat_num": 119,
+        "stat_ID": "TRTO",
+        "stat_name": "Toronto",
+        "street_num": 140,
+        "street": "Bay Street",
+        "address_2": "",
+        "city": "Toronto",
+        "province": "Ontario",
+        "postal_code": "M5J 2L5",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38032,
+          43.64481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 196,
+        "stat_num": 413,
+        "stat_ID": "TRNJ",
+        "stat_name": "Trenton Junction",
+        "street_num": "",
+        "street": "Telephone Road",
+        "address_2": "",
+        "city": "Quinte West",
+        "province": "Ontario",
+        "postal_code": "K8V 5P9",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.59880558,
+          44.11525231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 197,
+        "stat_num": 170,
+        "stat_ID": "TPIS",
+        "stat_name": "Trois Pistoles",
+        "street_num": "",
+        "street": "Rue de la Gare",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G0L 4K0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.17329568,
+          48.12700184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 198,
+        "stat_num": 247,
+        "stat_ID": "VBRU",
+        "stat_name": "Van Bruyssels",
+        "street_num": "",
+        "street": "Chemin Van Bruyssel-Kiskissink",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.149757,
+          47.935897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 199,
+        "stat_num": 339,
+        "stat_ID": "VDRY",
+        "stat_name": "Vandry",
+        "street_num": "",
+        "street": "Chemin de Vandry",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.558316,
+          47.859472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 200,
+        "stat_num": 59,
+        "stat_ID": "WSHG",
+        "stat_name": "Washago",
+        "street_num": "",
+        "street": "Quetton Street",
+        "address_2": "",
+        "city": "Severn",
+        "province": "Ontario",
+        "postal_code": "L0K 2B0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.334872,
+          44.748362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 201,
+        "stat_num": 76,
+        "stat_ID": "WSTR",
+        "stat_name": "Westree",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.547963,
+          47.418601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 202,
+        "stat_num": 49,
+        "stat_ID": "WYMT",
+        "stat_name": "Weymont",
+        "street_num": "",
+        "street": "Rue A",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G0X 3R0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.775387,
+          47.897887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 203,
+        "stat_num": 116,
+        "stat_ID": "WHTR",
+        "stat_name": "White River",
+        "street_num": "",
+        "street": "Winnipeg Street North",
+        "address_2": "",
+        "city": "",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.282991,
+          48.589888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 204,
+        "stat_num": 168,
+        "stat_ID": "WGWC",
+        "stat_name": "Wigwam",
+        "street_num": "",
+        "street": "",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.468078,
+          47.853405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 205,
+        "stat_num": 299,
+        "stat_ID": "WNDG",
+        "stat_name": "Windigo",
+        "street_num": "",
+        "street": "Route 11",
+        "address_2": "",
+        "city": "",
+        "province": "Quebec",
+        "postal_code": "G9X 3P4",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.334097,
+          47.77122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 206,
+        "stat_num": 618,
+        "stat_ID": "WDON",
+        "stat_name": "Windsor",
+        "street_num": "",
+        "street": "Montreuil Avenue",
+        "address_2": "",
+        "city": "Windsor",
+        "province": "Ontario",
+        "postal_code": "N8Y 2M9",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.007134,
+          42.324933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 207,
+        "stat_num": 128,
+        "stat_ID": "WOMR",
+        "stat_name": "Woman River",
+        "street_num": "",
+        "street": "Hong Kong Road",
+        "address_2": "",
+        "city": "Unorganized North Sudbury",
+        "province": "Ontario",
+        "postal_code": "",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.628067,
+          47.511624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 208,
+        "stat_num": 282,
+        "stat_ID": "WDST",
+        "stat_name": "Woodstock",
+        "street_num": 100,
+        "street": "Victoria Street South",
+        "address_2": "",
+        "city": "Woodstock",
+        "province": "Ontario",
+        "postal_code": "N4S 8R4",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.752123,
+          43.126528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_ID": 209,
+        "stat_num": 280,
+        "stat_ID": "WYOM",
+        "stat_name": "Wyoming",
+        "street_num": 579,
+        "street": "Front Street",
+        "address_2": "",
+        "city": "",
+        "province": "Ontario",
+        "postal_code": "N0N 1T0",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.12226,
+          42.94796
+        ]
+      }
+    }
+  ]
+}

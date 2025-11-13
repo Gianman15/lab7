@@ -1,0 +1,210 @@
+object_ID,stat_num,stat_ID,stat_name,street_num,street,address_2,city,province,postal_code,country,lat,lon
+1,555,XYUL,Aeroport Montreal Pierre-Elliott Trudeau,,Boulevard Roméo-Vachon Nord (départs),,,Quebec,H4Y 0A4,Canada,45.45698788,-73.75183367
+2,600,ALDR,Aldershot,,East Tunnel,,Burlington,Ontario,L7T 2C4,Canada,43.312886,-79.855009
+3,344,ALEX,Alexandria,45,McDougald Street East,,North Glengarry,Ontario,K0C 1A0,Canada,45.31805,-74.639672
+4,221,AMQU,Amqui,,Boulevard Saint-Benoît Ouest,,,Quebec,G5J 2E8,Canada,48.46626,-67.436172
+5,636,AMYO,Amyot,,Road 8 & 20,,Unorganized North Algoma,Ontario,,Canada,48.4828773,-84.95412177
+6,633,ANJO,Anjou (EXO),,8e Rue,,Montreal,Quebec,H1E 2Z6,Canada,45.617796,-73.59680183
+7,106,ARMG,Armstrong,,King Street,,Unorganized Thunder Bay District,Ontario,P0T 1A0,Canada,50.301424,-89.037603
+8,102,AUDN,Auden,,,,Unorganized Thunder Bay District,Ontario,,Canada,50.22916625,-87.88987518
+9,220,AZIL,Azilda,,Old Highway 144,,Greater Sudbury,Ontario,P0M 1B0,Canada,46.564107,-81.138044
+10,415,BLVL,Belleville,250,Station Street,,Belleville,Ontario,K8P 2T6,Canada,44.17961,-77.37455
+11,199,BENN,Benny,,,,Unorganized North Sudbury,Ontario,,Canada,46.781815,-81.630163
+12,33,BIMA,Bima,,Route 3 (Zec Jeannotte),,,Quebec,,Canada,47.379861,-72.220718
+13,15,BISC,Biscotasing,,Bisco Road,,Unorganized North Sudbury,Ontario,,Canada,47.299983,-82.102955
+14,369,BGQU,Bolger,,Route N-806,,,Quebec,,Canada,48.252289,-76.320778
+15,324,BOLK,Bolkow,,,,Unorganized North Sudbury,Ontario,,Canada,48.108349,-83.909323
+16,193,BRMT,Bourmont,,,,,Quebec,,Canada,48.200523,-75.831881
+17,322,BRMP,Brampton,27,Church Street West,,Brampton,Ontario,L6X 1S9,Canada,43.68685,-79.76448
+18,162,BRTF,Brantford,,Wadsworth Street,,Brantford,Ontario,N3T 3V5,Canada,43.146686,-80.265709
+19,35,BRKV,Brockville,141,Perth Street,,Brockville,Ontario,K6V 5E3,Canada,44.592113,-75.692713
+20,245,BRQU,Brooks,,,,,Quebec,,Canada,47.854125,-72.155817
+21,321,CANN,Cann,,Route 461,,,Quebec,,Canada,47.902677,-73.881907
+22,113,CAPR,Capreol,,Lakeshore Street,,Greater Sudbury,Ontario,P3P 1J1,Canada,46.711226,-80.929777
+23,98,CARA,Caramat,1011,Spruce Avenue,,,Ontario,,Canada,49.617783,-86.13815
+24,250,CARI,Caribou,,,,,Quebec,,Canada,47.733048,-72.215804
+25,312,CART,Cartier,,Spencer Avenue,,Unorganized North Sudbury,Ontario,P0M 1J0,Canada,46.706104,-81.557264
+26,216,CASY,Casey,,,,,Quebec,,Canada,47.887858,-74.181031
+27,419,CSLM,Casselman,,Station Street,,,Ontario,K0A 1M0,Canada,45.3122869,-75.08719739
+28,87,CAUS,Causapscal,,Rue Cartier,,,Quebec,G0J 1J0,Canada,48.34960664,-67.22720062
+29,439,CHBD,Chambord,169,Rue de la Gare,,,Quebec,G0W 1G0,Canada,48.421329,-72.058875
+30,205,CHAP,Chapleau,,Dufferin Street,,Chapleau Township,Ontario,P0M 1K0,Canada,47.841444,-83.40313
+31,82,CHRT,Charette,266,Rue Notre-Dame,,,Quebec,,Canada,46.442072,-72.921677
+32,492,CHNY,Charny,,Rue du Rail,,Lévis,Quebec,G6X 2V5,Canada,46.71354597,-71.27061225
+33,601,CHAT,Chatham,360,Queen Street,,Chatham,Ontario,N7M 2H6,Canada,42.397264,-82.179615
+34,2,CHEL,Chelmsford,,Lorne Street,,Greater Sudbury,Ontario,P0M 1L0,Canada,46.585767,-81.196787
+35,45,CHER,Cherokee,,,,,Quebec,,Canada,47.724138,-72.229872
+36,390,CLOV,Clova,5,Rue Latagne,,,Quebec,G0X 3M0,Canada,48.109629,-75.359707
+37,190,BDNC,Club Beaudin,,,,,Quebec,,Canada,48.211017,-75.896548
+38,397,BLGC,Club Belanger,,Route 461,,,Quebec,,Canada,47.923895,-73.932947
+39,48,GRGC,Club Gregoire,,,,,Quebec,,Canada,47.769223,-72.182779
+40,319,IRQC,Club Iroquois,,Route 3 (Zec Jeannotte),,,Quebec,,Canada,47.419572,-72.232099
+41,209,JACC,Club Jacques-Cartier,,,,Linton,Quebec,,Canada,47.318543,-72.212538
+42,160,KPTC,Club Kapitachuan,,,,,Quebec,,Canada,48.19652,-75.808768
+43,52,LIZO,Club Lizotte,,1e Chemin du Lac-au-Mirage,,,Quebec,,Canada,48.100262,-72.17883
+44,182,MWWC,Club Maniwawa,,Chemin de Clova,,,Quebec,,Canada,48.067995,-74.895755
+45,399,NCLC,Club Nicol,,Route de la Seigneurie du triton,,,Quebec,,Canada,47.575221,-72.24106
+46,384,RTAC,Club Rita,,,,,Quebec,,Canada,48.006695,-74.848222
+47,32,SSCC,Club Sisco,,Route 461,,,Quebec,,Canada,47.879104,-74.374236
+48,121,SMMC,Club Sommet,,,,,Quebec,,Canada,47.783394,-72.186737
+49,217,TRTC,Club Triton,,Route de la Seigneurie du triton,,,Quebec,,Canada,47.61346,-72.244177
+50,411,VMLC,Club Vermillon,,Chemin Rapide-Blanc-Station,,,Quebec,,Canada,47.661959,-72.983141
+51,178,CBRG,Cobourg,523,George Street,,,Ontario,K9A 3S6,Canada,43.96778,-78.17151
+52,105,COLL,Collins,,,,Unorganized Thunder Bay District,Ontario,P0V 1M0,Canada,50.295803,-89.448909
+53,392,CBAT,Consolidated Bathurst,,,,,Quebec,,Canada,48.194328,-75.747552
+54,180,COQU,Coquar,,,,,Quebec,,Canada,48.11871,-75.478574
+55,602,CWLL,Cornwall,,Station Road,,Cornwall,Ontario,K6J 3T7,Canada,45.04222848,-74.74346322
+56,351,COTO,Coteau,50,Rue Daoust,,,Quebec,J7X 1J7,Canada,45.27488,-74.23292
+57,147,CRSM,Cressman,,,,,Quebec,,Canada,47.620346,-72.917838
+58,405,DRLL,Da-Rou-Lac Lodge,,,,,Quebec,,Canada,48.229595,-75.998533
+59,410,DALT,Dalton,,,,Unorganized North Algoma,Ontario,,Canada,48.158228,-84.034513
+60,407,DESS,Dessane,,,,,Quebec,,Canada,47.885659,-73.640014
+61,409,DEVN,Devon,,Devon Road,,Unorganized North Sudbury,Ontario,,Canada,47.759732,-83.36704
+62,423,DIXX,Dix,,R0806,,,Quebec,,Canada,48.253429,-76.147166
+63,332,DORV,Dorval,,Dorval,,,Quebec,H9P 1B8,Canada,45.44892,-73.74128
+64,630,DRMV,Drummondville,,Rue Lindsay,,Drummondville,Quebec,J2B 1G4,Canada,45.882431,-72.487905
+65,425,DUPL,Duplessis,,Chemin Pourvoirie Duplessis,,,Quebec,,Canada,47.700376,-73.208067
+66,88,ELSA,Elsas,,,,Unorganized North Algoma,Ontario,,Canada,48.521081,-82.9031
+67,429,ESHR,Esher,,Esher Road,,Unorganized North Sudbury,Ontario,,Canada,47.852356,-83.563047
+68,576,FALL,Fallowfield,,Transitway,,Ottawa,Ontario,K2J 5K9,Canada,45.299303,-75.736708
+69,27,FALR,Falrie,,Route 3 (Zec Jeannotte),,,Quebec,,Canada,47.337513,-72.202275
+70,72,FELX,Felix,,,,Unorganized North Sudbury,Ontario,,Canada,47.20425,-81.407763
+71,83,FERG,Ferguson,,Chemin de Ferguson,,,Quebec,,Canada,47.812961,-73.41743
+72,103,FERL,Ferland,,Ferland Road,,Unorganized Thunder Bay District,Ontario,,Canada,50.31441928,-88.42599009
+73,441,FITZ,Fitzpatrick,,Chemin Fitzpatrick,,,Quebec,G9X 2G3,Canada,47.484804,-72.773522
+74,79,FOLE,Foleyet,,Railroad Avenue,,Unorganized North Sudbury,Ontario,P0M 1T0,Canada,48.246841,-82.440259
+75,639,FRKS,Forks,,,,Unorganized North Sudbury,Ontario,,Canada,47.04878195,-81.86376235
+76,129,FORS,Forsythe,,Chemin de Pénétration,,,Quebec,,Canada,48.235417,-76.428337
+77,127,FRNZ,Franz,,Franz Road,,Unorganized North Algoma,Ontario,,Canada,48.465157,-84.412073
+78,163,GAGN,Gagnon,,Chemin de la Gare Gagnon-Siding,,,Quebec,,Canada,48.249485,-76.113722
+79,200,GANA,Gananoque,,Station Road,,Leeds and the Thousand Islands,Ontario,K7G 1H3,Canada,44.36881,-76.15373
+80,126,GARN,Garneau,,Rue du Triage,,Shawinigan,Quebec,G9T 5K4,Canada,46.640001,-72.638243
+81,6,GEOR,Georgetown,,GO parking lot,,,Ontario,L7G 2H6,Canada,43.65551,-79.91912
+82,214,GIRD,Girdwood,,,,Unorganized North Algoma,Ontario,,Canada,48.457978,-84.771044
+83,78,GLNC,Glencoe,,Graham Street,,Southwest Middlesex,Ontario,N0L 1M0,Canada,42.745843,-81.71155
+84,74,GOGA,Gogama,,McGowan Street,,Unorganized North Sudbury,Ontario,,Canada,47.67611051,-81.7237169
+85,132,GMRE,Grand-Mere,710,Chemin du Grand-Nord,,Shawinigan,Quebec,G9T 2H4,Canada,46.605875,-72.686678
+86,448,GRNG,Greening,,Chemin de Clova,,,Quebec,,Canada,48.117385,-74.968387
+87,1,GRIM,Grimsby,,Ontario Street,,,Ontario,L3M 3H6,Canada,43.19602272,-79.55817885
+88,70,GUEL,Guelph,,Macdonell Street,,Guelph,Ontario,N1H 0A9,Canada,43.545251,-80.245602
+89,450,GUIL,Guildwood,,Westlake Road,,Toronto,Ontario,M1E 1L8,Canada,43.75482368,-79.19826327
+90,453,HEBV,Hebertville,,Rue Saint-Louis,,,Quebec,G0W 2L0,Canada,48.443477,-71.662407
+91,437,HERV,Hervey,,Chemin Saint-Charles,,,Quebec,G0X 3G0,Canada,46.85363155,-72.46785839
+92,417,HIBB,Hibbard,,Route 461,,,Quebec,,Canada,47.86724,-74.043022
+93,91,HLSP,Hillsport,,,,Unorganized Thunder Bay District,Ontario,,Canada,49.451026,-85.54803
+94,134,HRDL,Hirondelle,,Chemin Lac aux perles,,,Quebec,,Canada,47.536637,-72.243315
+95,63,HNPN,Hornepayne,,5th Avenue,,Hornepayne Township,Ontario,P0M 1Z0,Canada,49.217193,-84.773569
+96,323,INGR,Ingersoll,,Via Rail Driveway,,,Ontario,N5C 3C6,Canada,43.04063,-80.887906
+97,457,JOLI,Joliette,380,Rue Champlain,,Joliette,Quebec,J6E 2S1,Canada,46.02947097,-73.44401913
+98,444,JONQ,Jonquiere,3875,Rue Colbert,,Saguenay,Quebec,G7X 9B1,Canada,48.41189,-71.2544
+99,58,KGON,Kingston,,John Counter Boulevard,,Kingston,Ontario,K7M 0C8,Canada,44.25701645,-76.53662318
+100,420,KINO,Kinogama,,Kormak Road,,Unorganized North Sudbury,Ontario,,Canada,47.644993,-83.012966
+101,161,KISK,Kiskisink,,Chemin Van Bruyssel-Kiskissink,,,Quebec,,Canada,47.931659,-72.146402
+102,114,KITC,Kitchener,,Breithaupt Street,,Kitchener,Ontario,N2H 4C3,Canada,43.45574103,-80.49320687
+103,177,KOND,Kondiaronk,,,,,Quebec,,Canada,48.017363,-72.181081
+104,164,KORM,Kormak,,,,Unorganized North Sudbury,Ontario,,Canada,47.631224,-82.972526
+105,138,LPOC,La Pocatiere,,Avenue de la Gare,,Sainte-Anne-de-la-Pocatière,Quebec,G0R 1Z0,Canada,47.36114399,-70.02527082
+106,433,LTUQ,La Tuque,,Rue Lucien-Filion,,,Quebec,G9X 2X6,Canada,47.439397,-72.782394
+107,404,LBOU,Lac Bouchette,129,Route Victor-Delamarre,,,Quebec,,Canada,48.269402,-72.173124
+108,203,LDAR,Lac Darey,,Chemin Pourvoirie Duplessis,,,Quebec,,Canada,47.670897,-73.140477
+109,51,LDES,Lac des Roches,,,,,Quebec,,Canada,47.999726,-72.18357
+110,183,LEDW,Lac Edouard,,Rue Edmond,,,Quebec,,Canada,47.666458,-72.269451
+111,46,LMAL,Lac Malouin,,Route 3 (Zec Jeannotte),,,Quebec,,Canada,47.394387,-72.224329
+112,255,PRLL,Lac-aux-Perles,,Chemin Lac aux perles,,,Quebec,,Canada,47.532284,-72.234964
+113,65,LAFO,Laforest,,,,Unorganized North Sudbury,Ontario,,Canada,47.03468259,-81.21421342
+114,394,LNGL,Langlade,,,,,Quebec,,Canada,48.230335,-75.987016
+115,184,LARC,Larchwood,,Highway 144,,Greater Sudbury,Ontario,,Canada,46.57262,-81.286303
+116,192,LEVA,Levack,,Highway 144,,Greater Sudbury,Ontario,P0M 2R0,Canada,46.616805,-81.434048
+117,391,LOCH,Lochalsh,,Old Lochalsh Road,,Unorganized North Algoma,Ontario,,Canada,48.351378,-84.264006
+118,93,LNDN,London,205,York Street,,London,Ontario,N6A 1B1,Canada,42.98099,-81.246734
+119,95,LLAC,Longlac,,National Street,,,Ontario,P0T 2A0,Canada,49.771858,-86.534975
+120,34,MALT,Malton,,Derry Road East,,Mississauga,Ontario,L4T 4J3,Canada,43.704865,-79.638141
+121,215,MJBG,Manjobagues,,Route 461,,,Quebec,,Canada,47.872818,-74.471608
+122,110,MTPD,Matapedia,,Rue Macdonell,,,Quebec,G0J 1V0,Canada,47.97475331,-66.9392201
+123,212,MCCA,McCarthy,,Route 461,,,Quebec,,Canada,47.860133,-74.348003
+124,68,MCKC,McKee's Camp,,,,Unorganized North Sudbury,Ontario,,Canada,47.10646002,-81.25902806
+125,171,MCTC,McTavish,,Route 11,,,Quebec,G9X 3P4,Canada,47.761601,-73.32004
+126,381,MEGI,Megiscane,,Chemin de Pénétration,,,Quebec,,Canada,48.332994,-77.084163
+127,218,MTGM,Metagama,,,,Unorganized North Sudbury,Ontario,,Canada,47.092646,-81.94363
+128,26,MIQK,Miquick,,2,,Linton,Quebec,,Canada,47.219874,-72.251321
+129,376,MSBI,Missanabie,14,Curran Street,,Unorganized North Algoma,Ontario,P0M 2H0,Canada,48.311259,-84.084871
+130,253,MNET,Monet,,,,,Quebec,,Canada,48.169482,-75.643856
+131,342,MJLI,Mont-Joli,67,Avenue de la Gare,,,Quebec,G5H 2V0,Canada,48.589238,-68.188993
+132,54,MMGY,Montmagny,4,Rue de la Station,,,Quebec,G5V 2P1,Canada,46.97326607,-70.5596334
+133,226,MTRL,Montreal,,Rue Belmont,,Montreal,Quebec,H3B 4G1,Canada,45.49991952,-73.56617854
+134,101,MUDR,Mud River,,,,Unorganized Thunder Bay District,Ontario,,Canada,50.31852454,-88.51664898
+135,395,MUSK,Musk,,Austin Road,,Unorganized North Sudbury,Ontario,,Canada,47.949026,-83.707179
+136,99,NAKI,Nakina,163,Railway Avenue,,,Ontario,P0T 2H0,Canada,50.17773,-86.71351
+137,309,NAPN,Napanee,,Dairy Avenue,,,Ontario,K7R 3K6,Canada,44.25365,-76.954262
+138,230,NEME,Nemegos,,,,Unorganized North Sudbury,Ontario,,Canada,47.72532,-83.202617
+139,360,NICH,Nicholson,,,,Unorganized North Sudbury,Ontario,,Canada,47.957417,-83.765483
+140,293,OBRI,O'Brien,,Highway 17,,Unorganized North Algoma,Ontario,,Canada,48.517478,-85.139115
+141,436,OAKV,Oakville,,Cornwall Road,,Oakville,Ontario,L6J 3J1,Canada,43.454895,-79.682462
+142,92,OBAX,Oba,,,,Unorganized North Algoma,Ontario,,Canada,49.059565,-84.105718
+143,367,OSHA,Oshawa,,Thornton Road South,,Oshawa,Ontario,L1J 6W8,Canada,43.8708276,-78.88462583
+144,303,OSKL,Oskelaneo Lodge,,,,,Quebec,,Canada,48.111198,-75.056591
+145,617,OTTW,Ottawa,200,Tremblay Road,,Ottawa,Ontario,K1G 3H5,Canada,45.41599,-75.65151
+146,426,PARE,Parent,,Rue Commerciale,,,Quebec,G0X 3P0,Canada,47.91958,-74.614225
+147,69,PARS,Parry Sound,1,Station Street,,,Ontario,P2A 1Y7,Canada,45.35076028,-80.03713625
+148,248,POGA,Pogamasing,,,,Unorganized North Sudbury,Ontario,,Canada,46.908917,-81.773197
+149,37,PBDT,Pont Beaudet,,Route 3 (Zec Jeannotte),,,Quebec,,Canada,47.355582,-72.199959
+150,9,PHOP,Port Hope,,Hayward Street,,,Ontario,L1A 1B2,Canada,43.943592,-78.299017
+151,55,PRSS,Press,,Chemin de Pénétration,,,Quebec,,Canada,48.242405,-76.73338
+152,628,QBEC,Quebec,,Pont-Tunnel Joseph-Samson,,Quebec,Quebec,G1K 3X2,Canada,46.81857104,-71.21461428
+153,265,RAMS,Ramsey,,Ramsey Siding,,Unorganized North Sudbury,Ontario,,Canada,47.446379,-82.338701
+154,320,RAPB,Rapide Blanc,,Chemin Rapide-Blanc-Station,,,Quebec,,Canada,47.671688,-73.003801
+155,328,RMSK,Rimouski,,Rue Saint-Jean-Baptiste Est,,Rimouski,Quebec,G5L 1T6,Canada,48.45009869,-68.52121309
+156,276,OSKR,Rivere Oskelaneo,,Route forestière 404,,,Quebec,,Canada,48.10816,-75.204927
+157,327,RDLX,Riviere-du-Loup,,Rue Lafontaine,,Rivière-du-Loup,Quebec,G5R 2K4,Canada,47.8252985,-69.52767374
+158,350,RAPX,Riviere-St-Pierre,,Rue des Loisirs,,,Quebec,G0A 3A0,Canada,46.989034,-72.17939
+159,315,RBRT,Roberts,,Bisco Road,,Unorganized North Sudbury,Ontario,,Canada,47.330224,-82.199461
+160,28,ROUS,Rousseau,975,Route Rousseau,,,Quebec,,Canada,46.9338,-72.286532
+161,71,RUEL,Ruel,,,,Unorganized North Sudbury,Ontario,,Canada,47.25921659,-81.467846
+162,94,SHPN,Saint-Hilaire de Portneuf,,Route 3 (Zec Jeannotte),,,Quebec,,Canada,47.366521,-72.211128
+163,631,SHYA,Saint-Hyacinthe,,Rue Sicotte,,Saint-Hyacinthe,Quebec,J2S 0L7,Canada,45.62770762,-72.94893143
+164,43,SJUS,Saint-Justin,,Rue Duchesnay,,,Quebec,,Canada,46.27314546,-73.109586
+165,343,SLAM,Saint-Lambert,329,Avenue Saint-Denis,,,Quebec,J4P 2G5,Canada,45.49907918,-73.50745979
+166,295,SMRB,Saint-Maurice Riviere Boom,,,,,Quebec,G0X 3R0,Canada,47.898494,-73.749198
+167,130,SPAU,Saint-Paulin,,Rang Renversy,,,Quebec,J0K 3G0,Canada,46.40109545,-73.01596515
+168,38,STIT,Saint-Tite,,Rue Marchildon,,,Quebec,G0X 3H0,Canada,46.72311642,-72.56415695
+169,629,SFOY,Sainte-Foy,,Rue du Domaine-des-Retraités,,Quebec,Quebec,G1W 4V4,Canada,46.7542383,-71.29757499
+170,39,SANF,Sanford,,Chemin du Trappeur (Zec Jeannotte),,,Quebec,,Canada,47.48238,-72.219226
+171,306,SANM,Sanmaur,,Chemin de Wemotaci,,,Quebec,G0X 3R0,Canada,47.893778,-73.795987
+172,341,SARN,Sarnia,,Green Street,,Sarnia,Ontario,N7T 2K4,Canada,42.95709,-82.38892
+173,634,SAUV,Sauve (EXO),,Rue Saint-Denis,,Montreal,Quebec,H2M 1P2,Canada,45.5494849,-73.6543026
+174,42,SAYA,Sayabec,,Rue Lacroix,,,Quebec,G0J 3K0,Canada,48.558674,-67.689528
+175,460,SENN,Senneterre,,4e Rue Ouest,,,Quebec,J0Y 2M0,Canada,48.392294,-77.244388
+176,459,SHWN,Shawinigan,,Chemin du CNR,,Shawinigan,Quebec,G9N 2B4,Canada,46.54982209,-72.74526363
+177,287,SHEA,Sheahan,,,,Unorganized North Sudbury,Ontario,,Canada,46.940241,-81.797855
+178,125,SIGN,Signai,,Chemin de Pénétration,,,Quebec,,Canada,48.2959004,-76.82965018
+179,638,SNKR,Sinker,,Metagama Road,,Unorganized North Sudbury,Ontario,,Canada,47.14846329,-81.96057112
+180,377,SMTF,Smiths Falls,,Union Street,,,Ontario,K7A 2S2,Canada,44.912455,-76.024023
+181,60,SPAR,South Parry,,Avenue Road,,,Ontario,P2A 1Y3,Canada,45.34590993,-80.03788636
+182,185,SCAT,St. Catharines,,Great Western Street,,St. Catharines,Ontario,L2S 1L5,Canada,43.14766432,-79.25637728
+183,11,SMYS,St. Marys,5,James Street North,,,Ontario,N4X 1B1,Canada,43.26040072,-81.13639017
+184,166,STAD,Stadacona,,Route 3 (Zec Jeannotte),,,Quebec,,Canada,47.441409,-72.249148
+185,286,STRN,Strachan,,,,,Quebec,,Canada,48.030046,-74.865886
+186,329,STRL,Stralak,,,,Unorganized North Sudbury,Ontario,,Canada,46.804797,-81.680016
+187,7,STRF,Stratford,,Nile Street,,Stratford,Ontario,N5A 3W5,Canada,43.36437344,-80.97574139
+188,14,STRR,Strathroy,,Metcalfe Street,,Strathroy-Caradoc,Ontario,N7G 3Z1,Canada,42.95468221,-81.62291953
+189,621,SUDB,Sudbury,,Elgin Street,,Greater Sudbury,Ontario,P3E 1E3,Canada,46.48737212,-80.99221868
+190,4,SUDJ,Sudbury Jct,,Lasalle Boulevard,,Greater Sudbury,Ontario,P3A 4R7,Canada,46.52461028,-80.90208618
+191,266,SULT,Sultan,,Highway 667,,Unorganized North Sudbury,Ontario,,Canada,47.594677,-82.772959
+192,47,SMQU,Summit,,,,,Quebec,,Canada,47.788379,-72.185186
+193,637,SWAN,Swanson,,Esnagi Dam,,Unorganized North Algoma,Ontario,,Canada,48.48282148,-84.53484513
+194,292,TIMB,Timbrell,,Chemin de Clova,,,Quebec,,Canada,47.968028,-74.764449
+195,119,TRTO,Toronto,140,Bay Street,,Toronto,Ontario,M5J 2L5,Canada,43.64481,-79.38032
+196,413,TRNJ,Trenton Junction,,Telephone Road,,Quinte West,Ontario,K8V 5P9,Canada,44.11525231,-77.59880558
+197,170,TPIS,Trois Pistoles,,Rue de la Gare,,,Quebec,G0L 4K0,Canada,48.12700184,-69.17329568
+198,247,VBRU,Van Bruyssels,,Chemin Van Bruyssel-Kiskissink,,,Quebec,,Canada,47.935897,-72.149757
+199,339,VDRY,Vandry,,Chemin de Vandry,,,Quebec,,Canada,47.859472,-73.558316
+200,59,WSHG,Washago,,Quetton Street,,Severn,Ontario,L0K 2B0,Canada,44.748362,-79.334872
+201,76,WSTR,Westree,,,,Unorganized North Sudbury,Ontario,,Canada,47.418601,-81.547963
+202,49,WYMT,Weymont,,Rue A,,,Quebec,G0X 3R0,Canada,47.897887,-73.775387
+203,116,WHTR,White River,,Winnipeg Street North,,,Ontario,,Canada,48.589888,-85.282991
+204,168,WGWC,Wigwam,,,,,Quebec,,Canada,47.853405,-73.468078
+205,299,WNDG,Windigo,,Route 11,,,Quebec,G9X 3P4,Canada,47.77122,-73.334097
+206,618,WDON,Windsor,,Montreuil Avenue,,Windsor,Ontario,N8Y 2M9,Canada,42.324933,-83.007134
+207,128,WOMR,Woman River,,Hong Kong Road,,Unorganized North Sudbury,Ontario,,Canada,47.511624,-82.628067
+208,282,WDST,Woodstock,100,Victoria Street South,,Woodstock,Ontario,N4S 8R4,Canada,43.126528,-80.752123
+209,280,WYOM,Wyoming,579,Front Street,,,Ontario,N0N 1T0,Canada,42.94796,-82.12226
