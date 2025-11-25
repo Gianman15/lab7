@@ -1,0 +1,39 @@
+body {
+	background-color: white
+}
+
+#div1 {
+    height: 200px;
+	width: 80%;
+	padding: 10px;
+    margin: 0 auto;
+	background-color: hotpink;
+    border-style: solid;
+	border-width: 5px;
+    border-color: black;
+}
+
+#mapdiv {
+	height: 500px;
+	width: 80%;
+	margin: 0 auto;
+	position: relative;
+}
+
+/* overlay control positioned at top center of the map */
+.map-controls {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	transform: none;
+	z-index: 1000;
+	background: rgba(255,255,255,0.95);
+	padding: 6px 8px;
+	border-radius: 4px;
+	box-shadow: 0 1px 4px rgba(0,0,0,0.25);
+}
+
+.map-controls .li-nav {
+	font-size: 14px;
+	padding: 4px 6px;
+}

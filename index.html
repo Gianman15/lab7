@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>GEOG 464 - Lab 7</title>
+        
+		<!--put your external stylesheet links here-->
+		<link rel="stylesheet" href="css/styles.css">
+		<!-- link to leaflet styles -->
+		<link rel="stylesheet" type="text/css" href="lib/leaflet/leaflet.css" />
+		<!-- link to leaflet scripts -->
+		<script type="text/javascript" src="lib/leaflet/leaflet.js"></script>
+
+		<!--you can also place internal styles here; you would place these within <style> tags-->
+		
+    </head>
+
+    <body>
+        <!--put your initial page content here-->
+		<div id="div1">
+			<p>Q2 The styleAll function is used to style all map features. the styles variable contains the styling properties for each feature and the conditional statement dynamically adjusts the styling and returns styles to styleAll</p>
+			<p>Q4 feature represents the geometry and spatial data while layer contains the  visual representation for leaflet</p>
+			<p>Q5 the layer options fill is configuration for filling layers while getLatLng is a method that returns the geographical coordinates of the layer</p>
+			<p>Q6 options.fill = false remvoed the color fill in the circles._radius changed the size of the circles </p>
+		</div>
+		
+		<div id="mapdiv">
+			<!-- map controls overlay -->
+			<div class="map-controls">
+				<select class="li-nav" name="mapdropdown" id="mapdropdown">
+					<option value="map0" selected="selected" disabled>Load a map</option>
+					<option value='mapa'>Map A</option>
+					<option value='mapb'>Map B</option>
+				</select>
+			</div>
+		</div>
+		
+        <!--you can also use this space for internal scripts; you would place these within <script> tags-->
+
+		<!--put your external script links here-->
+        <script type="text/javascript" src="js/main.js"></script>
+    </body>
+</html>
