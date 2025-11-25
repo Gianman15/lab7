@@ -1,5 +1,7 @@
 // declare the map variable here to give it a global scope
 let myMap;
+// currently-displayed GeoJSON layer (used for resetStyle on hover)
+let currentGeoJson = null;
 
 // we might as well declare our baselayer(s) here too
 const CartoDB_Positron = L.tileLayer(
@@ -28,7 +30,7 @@ function initialize(){
 	// attach change listener to dropdown so we don't use inline handlers
 	const sel = document.getElementById('mapdropdown');
 	if (sel) {
-		sel.addEventListener('change', function.(e){
+		sel.addEventListener('change', function(e){
 			loadMap(e.target.value);
 		});
 	}
@@ -44,8 +46,13 @@ function fetchData(url){
             return response.json();
         })
         .then(function(json){
-            //create a Leaflet GeoJSON layer using the fetched json and add it to the map object
-            L.geoJson(json, {style: styleAll, pointToLayer: generateCircles, onEachFeature: addPopups}).addTo(myMap);
+			//create a Leaflet GeoJSON layer using the fetched json and add it to the map object
+			// store the layer so we can call resetStyle() from event handlers
+			if (currentGeoJson) {
+				try { currentGeoJson.remove(); } catch (e) { /* ignore */ }
+				currentGeoJson = null;
+			}
+			currentGeoJson = L.geoJson(json, {style: styleAll, pointToLayer: generateCircles, onEachFeature: addPopups}).addTo(myMap);
         })
 };
 function generateCircles(feature, latlng) {
@@ -110,6 +117,27 @@ function addPopups(feature, layer) {
 	}
 
 	layer.bindPopup(popupHtml);
+
+	// add hover highlight handlers
+	layer.on({
+		mouseover: function(e) {
+			const target = e.target;
+			// visual highlight: stronger border and higher fill opacity
+			try {
+				target.setStyle({ weight: 2, color: '#FFD54F', fillOpacity: 1 });
+			} catch (err) {
+				// some layers (Markers) may not support setStyle
+			}
+			if (target.bringToFront) target.bringToFront();
+		},
+		mouseout: function(e) {
+			const target = e.target;
+			// reset style using the stored geojson layer
+			if (currentGeoJson && typeof currentGeoJson.resetStyle === 'function') {
+				try { currentGeoJson.resetStyle(target); } catch (err) { /* ignore */ }
+			}
+		}
+	});
 
 	// Get the geographic coordinates of the layer (left here if needed later)
 	// let latlng = layer.getLatLng();
