@@ -15,11 +15,7 @@
 		<!--you can also place internal styles here; you would place these within <style> tags-->
 		
     </head>
-	<select class="li-nav" name="mapdropdown" id="mapdropdown">
-		<option value="map0" selected="selected" disabled>Load a map</option>
-		<option value='mapa'>Map A</option>
-		<option value='mapb'>Map B</option>
-	</select>
+
     <body>
         <!--put your initial page content here-->
 		<div id="div1">
@@ -30,6 +26,14 @@
 		</div>
 		
 		<div id="mapdiv">
+			<!-- map controls overlay -->
+			<div class="map-controls">
+				<select class="li-nav" name="mapdropdown" id="mapdropdown">
+					<option value="map0" selected="selected" disabled>Load a map</option>
+					<option value='mapa'>Map A</option>
+					<option value='mapb'>Map B</option>
+				</select>
+			</div>
 		</div>
 		
         <!--you can also use this space for internal scripts; you would place these within <script> tags-->

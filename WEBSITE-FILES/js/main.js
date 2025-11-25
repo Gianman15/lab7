@@ -205,6 +205,26 @@ function loadMap(mapid){
 
 	// add the layer control to the map
 	lcontrol.addTo(myMap);
+
+	// position the custom map selector below Leaflet's zoom control if present
+	try {
+		const mapDiv = document.getElementById('mapdiv');
+		const controlsEl = mapDiv ? mapDiv.querySelector('.map-controls') : null;
+		const zoomEl = mapDiv ? mapDiv.querySelector('.leaflet-control-zoom') : null;
+		if (controlsEl) {
+			if (zoomEl) {
+				const zoomRect = zoomEl.getBoundingClientRect();
+				const mapRect = mapDiv.getBoundingClientRect();
+				const topPx = (zoomRect.top - mapRect.top) + zoomRect.height + 8; // 8px gap
+				controlsEl.style.top = topPx + 'px';
+			} else {
+				// fallback
+				controlsEl.style.top = '80px';
+			}
+		}
+	} catch (e) {
+		// ignore positioning errors
+	}
 };
 
 window.onload = initialize();
